@@ -1,0 +1,53 @@
+07-08-16
+
+SQL Class
+ - Structured Query Language
+ - Data management 
+
+Tell it what to do and it shows it to you. Easy to store lot of data.
+Do Queries FAST
+
+storage, retrival, lots more..
+
+SQL light is what most androids use
+	- do not have to rely on servers
+ 
+my SQL, orable SQL, light SQR, most basic camands are the same
+____BASIC COMMANDS_____________________
+
+SELECT - data out of a database
+	EX. SELECT * FROM -LOCATION-;
+	EX. SELECT COUNT(*) from -location-;
+	EX. SELECT DISTINCT 
+	EX. SELECT NAME FROM -location- WHERE
+
+FROM - from location
+	- WHERE is in itcan go into more in data (can get anything)
+		- LIKE to get other stuff out of it
+		% % you can grab anything if you put it in the %%%
+
+INSERT INTO (any table) - puts data in the data base 
+	ex. INSERT INTO JORDAN (ID, TrackName) VALUES (1, 'blah blah'):
+
+VALUE - to put in the values
+
+UPDATE - Change values in data base
+
+SET - 
+
+REMOVE - 
+
+DELETE - pick the location its in
+	ex. DELETE FROM <Table> WHERE DATA = 'Bad'
+
+DROP TABLE- BAD, detelets everything 
+
+CREATE TABLE - set to create a table (command line or the select stuff)
+	ex. CREATE TABLE blah (ID INTEGER, NAME STRING, PRIMARY KEY AUTOINCREMENT 
+	/will go in order, in increments of one NOT NULL, NAME STRING NOT NULL);
+
+
+(If you have a table, have the code saved somewhere)
+("" '' not much of a difference)
+
+While creating collumns you have to specify the types and all that(sharepoint)

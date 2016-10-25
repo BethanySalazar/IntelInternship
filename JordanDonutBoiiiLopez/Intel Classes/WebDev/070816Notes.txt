@@ -1,0 +1,28 @@
+07-08-16
+Django Day 2
+
+1.Install Sublime text
+
+ MSSQL (Microsoft)
+ Oracle SQL (^Oracle Apache)
+ My SQL (Open Source Database) - 
+ SQL Lite 3 (Local Database) - testing purposes~
+
+KEYWORDS FROM SQL
+ - SELECT
+ - FROM
+
+Models - 
+ - Specifications for DataBase
+ - MVC: Model (usually represented as a cylinder):BackEnd - Controller - Views 
+(looks like a computer screen)
+
+Test Driven Dev.
+ - write tests first to test out different possibilities and write code 
+ex.	test case: see if the name contains numbers
+	test case: numbers for letters
+	test case: not real name
+	test case: blank
+	test case: punctuation
+
+Views- front end. what people see. Data minipulating Logic.

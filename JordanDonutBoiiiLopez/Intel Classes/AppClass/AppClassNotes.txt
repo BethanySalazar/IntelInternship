@@ -1,0 +1,29 @@
+07-06-16
+
+xml- extensive mark up language
+html- hiper text mark up language
+
+Markup Language
+- Language that is coded using tags
+#everything starts like this but with different things you want to test
+<ImageView ... 
+<TextView
+	Value="this is a textview
+/>
+
+Android
+   - Application Lifecycle
+   - 4 main components to an application
+   - Development best practices
+   - VM's 
+   - Kernel
+   - Layers of Android
+
+Java & XML
+
+check out: udacity.com
+
+sp- scale independed pixle /text
+
+dp- density independent pixle /phone
+

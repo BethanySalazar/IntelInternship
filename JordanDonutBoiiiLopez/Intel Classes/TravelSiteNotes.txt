@@ -1,0 +1,30 @@
+
+Important Info:
+-We need admin, not limited to one person, can add new admins 
+(l1 and l2 managers)
+-Locations to where these people can go
+-Home site
+-Input screen where each person in the company submits what day's 
+they will be going.
+
+	What should be on the input screen?
+	-Name of person
+	-Personal info
+		-manager
+		-l2 manager
+	-Drop down screen of location they want to go
+	-Drop down of where they  from
+	-Dates gone
+		-A calender
+	-Submit
+-Data base where manager can view the entries and approve them?
+	A calender with all entries
+
+
+Spent 5k running total will be 5k in same college center
+
+if an entry in travel request pops up, person in charge is 
+able to view it and accept or decline the request.
+-email person who entered information about the status
+
+

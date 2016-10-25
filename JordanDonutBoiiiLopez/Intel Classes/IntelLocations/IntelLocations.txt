@@ -1,0 +1,87 @@
+<string-array name= "site_locations" >
+<item>Austin, Texas</item>
+<item>Chandler, Arizona</item>
+<item>Columbia, South Carolina</item>
+<item>DuPont, Washington</item>
+<item>Folsom, California</item>
+<item>Fort Collins, Colorado</item>
+<item>Hillsboro, Oregon</item>
+<item>Hudson, Massachusetts</item>
+<item>Rio Rancho, New Mexico</item>
+<item>Santa Clara, California</item>
+<item>Argentina: Buenos Aires</item>
+<item>Argentina: Córdoba</item>
+<item>Australia: Melbourne</item>
+<item>Australia: Sydney</item>
+<item>Belgium: Brussels</item>
+<item>Belgium: Kontich</item>
+<item>Brazil: São Paulo</item>
+<item>Canada: Vancouver</item>
+<item>Canada: British Columbia</item>
+<item>Chile: Santiago</item>
+<item>China: Beijing</item>
+<item>China: Chengdu</item>
+<item>China: Dalian</item>
+<item>China: Shanghai</item>
+<item>China: Shenzhen</item>
+<item>Colombia: Bogotá</item>
+<item>Costa Rica: Heredia</item>
+<item>Czech Republic: Prague</item>
+<item>Egypt: Cairo</item>
+<item>Finland: Espoo/Helsinki</item>
+<item>France: Paris</item>
+<item>France: Sophia Antipolis</item>
+<item>France: Toulouse</item>
+<item>France: Montpellier</item>
+<item>France: Nantes</item>
+<item>France: Aix-en-Provence</item>
+<item>France: Grenoble</item>
+<item>Germany: Duisburg</item>
+<item>Germany: Karlsruhe</item>
+<item>Germany: Munich</item>
+<item>Germany: Nuremberg</item>
+<item>Greece: Athens</item>
+<item>Hong Kong: Hong Kong</item>
+<item>Hungary: Budapest</item>
+<item>Ireland: Leixlip</item>
+<item>Ireland: Shannon</item>
+<item>Israel: Haifa</item>
+<item>Israel: Jerusalem</item>
+<item>Israel: Petach Tikva</item>
+<item>Israel: Qiryat Gat</item>
+<item>Israel: Yakum</item>
+<item>Italy: Milan</item>
+<item>India: Bangalore</item>
+<item>Indonesia: Jakarta</item>
+<item>Japan: Tokyo</item>
+<item>Japan: Tsukuba</item>
+<item>Korea: Seoul</item>
+<item>Malaysia: Kuala Lumpur</item>
+<item>Malaysia: Kulim</item>
+<item>Malaysia: Penang</item>
+<item>Mexico: Guadalajara</item>
+<item>Mexico: Mexico City</item>
+<item>Netherlands: Amsterdam</item>
+<item>Netherlands: Eindhoven</item>
+<item>Pakistan: Karachi</item>
+<item>Philippines: Manila</item>
+<item>Poland: Gdansk</item>
+<item>Poland: Warsaw</item>
+<item>Romania: Bucharest</item>
+<item>Russia: Nizhny Novgorod</item>
+<item>Saudi Arabia: Riyadh</item>
+<item>Singapore: Singapore</item>
+<item>South Africa: Johannesburg</item>
+<item>Spain: Barcelona</item>
+<item>Spain: Madrid</item>
+<item>Sweden: Stockholm/Lund</item>
+<item>Switzerland: Zurich</item>
+<item>Taiwan: Taipei</item>
+<item>Thailand: Bangkok</item>
+<item>Turkey: Istanbul</item>
+<item>Ukraine: Kiev</item>
+<item>United Arab Emirates: Dubai</item>
+<item>United Kingdom: Swindon</item>
+<item>United Kingdom: Winnersh</item>
+<item>Vietnam: Ho Chi Minh City</item>
+</string-array>

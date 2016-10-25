@@ -1,0 +1,28 @@
+07-07-16
+Web Dev on Full stack
+ - Both front and back end
+
+Django Python
+ - High end web framework 
+
+
+Windows powershell 
+ - other things like powershell are very similar, preferance
+
+Text editor (notepad, sublime text 3- very pop, atom io, notepad++, 
+vim- old school nasty. No windows Lennox)
+
+Python
+CSS
+HTML - BootStrap (useful plugin/framework)
+JavaScript
+SQL
+Regex
+
+cd, pws, ls, 
+
+OPEN: windows button and r, search powershell and enter
+
+django needs admin
+
+ 

@@ -1,0 +1,59 @@
+07-12-16
+XML, Design
+
+Gradel- takes care of a lot of things
+
+**For every View they will as for 2 basic attributes**____________________
+<TextView- shows text, what android uses to allow to see all text
+
+/>
+
+ex.-----------------------
+<ImageView-
+	android:layout_height="500dp"
+	android:layout_width="500dp"
+	android:layoutsrc="@drawable/ocean"
+/>
+ex.------------------------
+
+put android so people know we are developing for android
+
+<RelativeView
+	android:layout_height"wrap_content"
+	android:layout_width="wrap_content" >
+
+
+<TextView
+	android:id="@+id/text_view1"
+	android:layout_height"500dp" (wrap_content- will scale to view. Make everything fit)
+	android:layout_width="500dp"
+	android:text="Hello I am a textview"
+	android:textSize="40sp"
+	android:backgroundColor="@android:color/holo_green_light
+/>
+
+<TextView
+	android:layout_height"wrap_content"
+	android:layout_width="wrap_content"
+	android:text="HellowI am another textview"
+	android:textSize="40sp"
+	android:layout_alignParentBottom="true"
+	android:layout_below="the textview above me" / "@id/text_view1 to wrap text 
+		around but under the original view
+/>
+
+</RelativeView>
+ViewGroups-(nested views)
+	RelativeLayout
+	LinearLayout
+
+
+_______RECAP____________________________________
+sp- scale independed pixle/text (changes with user settings, the scale you want)
+(text size)
+
+dp- density independent pixle/phone (outside resolution)
+500dp = a couple inches (layout hight and width)
+
+SUMMARY________________________________________
+activity main on calculator project
