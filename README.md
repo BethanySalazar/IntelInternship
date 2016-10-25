@@ -1,2 +1,5 @@
-# IntelInternship
-Going to have all projects and stuff learned from Intel
+# Intel Internship
+All projects and stuff learned from Intel
+Phython
+Java
+Code Projects
